@@ -5,4 +5,5 @@ print('Don't say farewell;')
 print('Hello again;')
 print('Hello my dear friend;')
 print('Glad to see you;')
-
+print('....Something weird;')
+print('If you say so...')
