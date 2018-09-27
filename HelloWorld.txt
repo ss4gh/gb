@@ -3,3 +3,6 @@ print('Hello everybody;')
 print('Farewell;')
 print('Don't say farewell;')
 print('Hello again;')
+print('Hello my dear friend;')
+print('Glad to see you;')
+
